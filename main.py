@@ -6,3 +6,4 @@ class NevList(list):
 list1 = NevList([1, 2, 3, 4, 5, 6, 'pip', 'Monti'])
 list2 = NevList([2, 4, 'pip'])
 print(list1 - list2)
+#comment1
